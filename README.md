@@ -1,3 +1,3 @@
 # Calculadora_IMC
  Saiba se você está no seu peso ideal...
- Para acessa-lo clique no link: https://akiramath.github.io/Calculadora_IMC/
+ Para acessa-lo clique no link: https://matheusmansanorodrigues.github.io/Calculadora_IMC/
